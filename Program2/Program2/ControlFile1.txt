@@ -1,0 +1,3 @@
+obj objFiles/sphere.obj
+obj objFile/axis.obj
+s 4 4 4
